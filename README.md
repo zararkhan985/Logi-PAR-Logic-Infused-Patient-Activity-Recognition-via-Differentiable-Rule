@@ -10,6 +10,7 @@ Logi-PAR combines deep learning perception with differentiable logical reasoning
 - **Reasoning Module**: Differentiable logic rules with Gumbel-Softmax for rule learning and negation
 - **Causal Explanations**: Counterfactual analysis for minimal perturbations
 
+![image alt] (https://github.com/zararkhan985/Logi-PAR-Logic-Infused-Patient-Activity-Recognition-via-Differentiable-Rule/blob/cb8881bdc25e1ae777c62f1bec23f6b5095327b0/LogiPAR.jpg)
 ## Installation
 
 1. Clone the repository:
@@ -145,4 +146,5 @@ See `results.json` for complete results.
 - Causal counterfactual explanations
 - State-of-the-art performance on clinical benchmarks
 - Fully interpretable logical rules
+
 
