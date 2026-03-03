@@ -135,8 +135,6 @@ Logi-PAR achieves state-of-the-art performance on clinical benchmarks:
 | OmniFall | CGS | 89.4% | 82.5% |
 | OmniFall | F1 | 91.0% | 88.4% |
 
-See `results.json` for complete results.
-
 ## Key Features
 
 - Multi-view fusion with reliability weighting
@@ -145,6 +143,7 @@ See `results.json` for complete results.
 - Causal counterfactual explanations
 - State-of-the-art performance on clinical benchmarks
 - Fully interpretable logical rules
+
 
 
 
