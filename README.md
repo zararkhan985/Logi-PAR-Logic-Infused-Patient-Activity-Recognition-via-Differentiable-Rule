@@ -146,16 +146,3 @@ See `results.json` for complete results.
 - State-of-the-art performance on clinical benchmarks
 - Fully interpretable logical rules
 
-
-
-## Citation
-
-If you use this code in your research, please cite:
-
-
-## Acknowledgments
-
-This framework builds upon:
-- Swin Transformer for visual features
-- Differentiable logic programming techniques
-- Causal inference methods for explanations
