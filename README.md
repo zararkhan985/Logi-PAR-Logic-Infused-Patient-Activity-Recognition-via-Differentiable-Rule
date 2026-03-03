@@ -1,5 +1,5 @@
 
-A neuro-symbolic framework that factorizes clinical risk assessment into perception and reasoning stages, enabling interpretable and robust multi-view activity recognition in healthcare settings.
+A neuro-symbolic framework that factorizes patient activity clinical assessment into perception and reasoning stages, enabling interpretable and robust multi-view activity recognition in healthcare settings.
 
 ## Overview
 
@@ -145,6 +145,7 @@ See `results.json` for complete results.
 - Causal counterfactual explanations
 - State-of-the-art performance on clinical benchmarks
 - Fully interpretable logical rules
+
 
 
 
